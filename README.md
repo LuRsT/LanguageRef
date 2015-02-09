@@ -1,7 +1,8 @@
 # LanguageRef
 
 Inspired by the first Apprenticeship Pattern from the book with the same name
-(Apprenticeship Patterns) I decided to create this Language reference which
+([Apprenticeship Patterns](http://shop.oreilly.com/product/9780596518387.do))
+I decided to create this Language reference which
 will be a runnable cheatsheet for every language that I'm working with.
 
 # How it works
